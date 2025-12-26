@@ -1,0 +1,15 @@
+5′ UTR
+
+· Length: 52 nucleotides (positions 1–52)
+· Features:
+  · Contains a 5′ cap at the beginning.
+  · Has a partial Kozak sequence (GCCGGCAAUG) that includes the start codon (AUG).
+  · Ends just before the start codon (AUG), which begins at position 53.
+
+3′ UTR
+
+· Length: At least 46 nucleotides shown in detail (positions 805–852), but the full 3′ UTR likely extends beyond position 852.
+· Features:
+  · Begins after the stop codon (UAA) at positions 805–807.
+  · Contains the polyadenylation signal (AAUAAA) at positions 833–838 (shown in two places: also noted as 821–826 in one annotation, likely a slight diagram inconsistency).
+  · Ends with a poly-A tail (AAAAA...)
